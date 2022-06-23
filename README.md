@@ -1,5 +1,5 @@
 # Releases
-[***XyEngine out now!***](https://github.com/IUrixl/Xy-Engine, "Direct link")
+[***XyEngine out now!***](https://github.com/IUrixl/Xy-Engine "Direct link")
 
 ***XyMeshEditor out now!***
 

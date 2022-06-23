@@ -1,7 +1,7 @@
 # Releases
 [***XyEngine out now!***](https://github.com/IUrixl/Xy-Engine, "Direct link")
 
-Xy Mesh Editor isn't released by the moment, stay tunned.
+***XyMeshEditor out now!***
 
 
 # XyMeshTool

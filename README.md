@@ -1,6 +1,5 @@
-# Releas
-[***
-XyEngine out now!***](https://github.com/IUrixl/Xy-Engine, "Direct link")
+# Releases
+[***XyEngine out now!***](https://github.com/IUrixl/Xy-Engine, "Direct link")
 
 Xy Mesh Editor isn't released by the moment, stay tunned.
 
@@ -26,4 +25,4 @@ Xy Series is the group of devtools to improve your game optimization. It can als
 ### File management
   - Save = When clicking it, it will save your mesh into .xymesh
   - Open = When clicking it, it will open your mesh.
-  - 
+  - Open BG = When clicking it, you can open a mesh as a background.

@@ -27,4 +27,4 @@ Xy Series is the group of devtools to improve your game optimization. It can als
   - Open = When clicking it, it will open your mesh.
   - Open BG = When clicking it, you can open a mesh as a background.
 ## Adding my meshes into a game
-[-Guide](https://github.com/IUrixl/Xy-Engine "Direct link")
+[-Guide](https://github.com/IUrixl/Xy-Engine#resources "Direct link")

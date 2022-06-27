@@ -21,6 +21,7 @@ Xy Series is the group of devtools to improve your game optimization. It can als
   - Click on void = Unselect vertex
   - Right click = Menu
   - G (while vertex selected) = Move vertex
+  - X = Remove vertex
 
 ### File management
   - Save = When clicking it, it will save your mesh into .xymesh
